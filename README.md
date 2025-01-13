@@ -104,6 +104,6 @@
 
 <br clear="both">
 
-![](https://hit.yhype.me/github/profile?account_id=119063991)
+![](https://komarev.com/ghpvc/?username=codersaiya)
 
 ###
