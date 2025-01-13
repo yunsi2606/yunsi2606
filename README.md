@@ -104,8 +104,6 @@
 
 <br clear="both">
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=CoderSaiya&label=Profile%20Views&icon=5&pretty=false" />
-</a>
+![](https://hit.yhype.me/github/profile?account_id=119063991)
 
 ###
