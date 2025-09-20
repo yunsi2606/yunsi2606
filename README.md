@@ -1,109 +1,174 @@
-<h2 align="left">Hi 👋! My name is Coder Saiya (Nhật Cường) and I'm a backend developer, from Vietnam</h2>
+# 👋 Hello, I'm Coder Saiya (Nhật Cường)
 
-![Coder Saiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderSaiya&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false?order=1?timestamp=${Date.now())
-![Coder Saiya's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=CoderSaiya&locale=en&hide_title=false&layout=compact&card_width=320&card_height=150&langs_count=5&theme=dracula&hide_border=false?order=2?timestamp=${Date.now()})
-
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/119063991?s=400&u=aa59025cae5a3cbb908d440639d638a7c1d5fd66&v=4"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuget/nuget-original.svg" height="30" alt="nuget logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/objectivec/objectivec-plain.svg" height="30" alt="objectivec logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="30" alt="swift logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&width=435&lines=Backend+Developer+from+Vietnam;Always+learning+new+things;Building+amazing+applications" alt="Typing SVG" />
 </div>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/119063991?s=200&u=aa59025cae5a3cbb908d440639d638a7c1d5fd66&v=4" alt="Profile Picture" style="border-radius: 50%; border: 3px solid #BD93F9;" />
 </div>
 
-###
+---
 
-<br clear="both">
+## 🚀 About Me
 
-![](https://komarev.com/ghpvc/?username=codersaiya)
+<div align="center">
+  
+🎯 **Backend Developer** passionate about building scalable and efficient systems  
+📍 Based in **Ho Chi Minh City, Vietnam** 🇻🇳  
+💻 **1+ years** of experience in software development  
+🌱 Currently diving deep into **Microservices Architecture** and **Cloud Technologies**  
 
-###
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 🔭 What I'm working on
+- Building **E-commerce Platforms** with microservices
+- Developing **RESTful APIs** and **GraphQL** services  
+- Implementing **CI/CD pipelines** with Docker & AWS
+- Creating **mobile applications** with Flutter
+
+</td>
+<td align="center" width="50%">
+
+### 🌱 What I'm learning
+- **System Design** & **Scalability** patterns
+- **Kubernetes** for container orchestration
+- **Machine Learning** integration in web apps
+- **DevOps** best practices and automation
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 My Philosophy
+*"Great software is not built by individuals, but by teams who collaborate, share knowledge, and push each other to be better."*
+
+**🎮 Fun fact**: I debug code better with a cup of Vietnamese coffee ☕  
+**💬 Ask me about**: Backend architecture, API design, or the best phở in Saigon!  
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoderSaiya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSaiya&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CoderSaiya&theme=dracula&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CoderSaiya&theme=dracula&hide_border=true" />
+</div>
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Backend Development
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,nodejs,php" />
+</div>
+
+### Frontend & Mobile
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,flutter,kotlin,swift" />
+</div>
+
+### Databases & Cloud
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,aws,gcp,docker" />
+</div>
+
+### Development Tools
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,git,github,figma,unity" />
+</div>
+
+---
+
+## 📈 Coding Activity & Stats
+
+<div align="center">
+  
+### WakaTime Weekly Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+**📊 Alternative**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=CoderSaiya&theme=dracula&hide_border=true&layout=compact" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=CoderSaiya&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+</div>
+
+---
+
+## 🎯 Current Projects
+
+- 🔨 **E-commerce Platform**: Building a scalable microservices architecture
+- 🚀 **DevOps Automation**: Implementing CI/CD pipelines with Docker & AWS
+- 📱 **Mobile App**: Cross-platform development with Flutter
+- 🧠 **AI Integration**: Exploring machine learning in web applications
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nhatcuongdev.contacts@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nhat-cuong)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg)
+
+</div>
+
+---
+
+## 💻 Weekly Development Breakdown
+
+```text
+C#           12 hrs 30 mins  ████████████░░░  40.2%
+Java         8 hrs 15 mins   ████████░░░░░░░  26.5%
+JavaScript   5 hrs 45 mins   █████░░░░░░░░░░  18.4%
+TypeScript   3 hrs 20 mins   ███░░░░░░░░░░░░  10.7%
+Others       1 hr 20 mins    █░░░░░░░░░░░░░░   4.2%
+```
+
+---
+
+<div align="center">
+  
+### 🎵 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<img src="https://komarev.com/ghpvc/?username=CoderSaiya&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+
+**Thanks for visiting my profile! Have a great day! 😊**
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+</div>
