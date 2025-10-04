@@ -28,7 +28,7 @@
 ### 🔭 What I'm working on
 - Building **E-commerce Platforms** with microservices
 - Developing **RESTful APIs** and **GraphQL** services  
-- Implementing **CI/CD pipelines** with Docker & AWS
+- Implementing **CI/CD pipelines** with Docker & Cloudflare
 - Creating **mobile applications** with Flutter
 
 </td>
