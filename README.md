@@ -59,8 +59,8 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yunsi2606&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunsi2606&layout=compact&theme=dracula&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yunsi2606&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true&title_color=BD93F9" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yunsi2606&layout=compact&theme=dracula&hide_border=true&langs_count=8&title_color=BD93F9" alt="Top Langs" />
 </div>
 
 <div align="center">
@@ -112,19 +112,6 @@ No activity tracked
 
 </div>
 
-**📊 Alternative**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=yunsi2606&theme=dracula&hide_border=true&layout=compact" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yunsi2606&theme=dracula&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
 ---
 
 ## 🎯 Current Projects
@@ -147,18 +134,6 @@ No activity tracked
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg)
 
 </div>
-
----
-
-## 💻 Weekly Development Breakdown
-
-```text
-C#           12 hrs 30 mins  ████████████░░░  40.2%
-Java         8 hrs 15 mins   ████████░░░░░░░  26.5%
-JavaScript   5 hrs 45 mins   █████░░░░░░░░░░  18.4%
-TypeScript   3 hrs 20 mins   ███░░░░░░░░░░░░  10.7%
-Others       1 hr 20 mins    █░░░░░░░░░░░░░░   4.2%
-```
 
 ---
 
